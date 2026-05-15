@@ -34,7 +34,7 @@ public class Main {
         System.out.println(
                 "  ╔══════════════════════════════════════════════════════════╗\n" +
                         "  ║    SISTEMA DE RETROALIMENTACIÓN DOCENTE ANÓNIMA          ║\n" +
-                        "  ║    Educación Superior — v1.0                             ║\n" +
+                        "  ║                                                          ║\n" +
                         "  ╚══════════════════════════════════════════════════════════╝"
         );
 
